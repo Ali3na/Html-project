@@ -1,0 +1,16 @@
+@media screen and (min-width: 950px) {
+  header nav #navbarNavDropdown {
+    margin: 50px 0px 0px -205px;
+  }
+}
+@media screen and (max-width: 750px) {
+  main .Illustrator article .left {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    float: none;
+  }
+  main .Illustrator article .right {
+    float: none;
+  }
+}
